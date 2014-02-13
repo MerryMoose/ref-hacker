@@ -1,5 +1,6 @@
 # Reference Hacker
-A repository of programming language references.
+A repository of references, cheat sheets, and other useful information.
+
 
 ## Programming Languages
 
