@@ -8,6 +8,12 @@ A repository of programming language references.
 - C#
 - Erlang
 - Haskell
+- Java
 - Javascript
+- Lua
 - Node.js
+- OCaml
+- Perl
 - Prolog
+- Python
+- Scala
