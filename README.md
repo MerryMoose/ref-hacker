@@ -1,4 +1,4 @@
 Reference Hacker
 ==========
 
-A reference repo for programming languages.
+A repository of programming language references.
