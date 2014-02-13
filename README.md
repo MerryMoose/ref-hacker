@@ -1,4 +1,4 @@
 ref-hacker
 ==========
 
-Merry Moose Programming Reference Library
+Merry Moose Programming Reference Repo
