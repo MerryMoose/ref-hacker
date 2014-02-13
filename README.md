@@ -1,4 +1,4 @@
-Merry Moose Programming Reference Repo
+Reference Hacker
 ==========
 
-A reference repo for programmers and elite hackers!
+A reference repo for programming languages.
